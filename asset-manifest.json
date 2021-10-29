@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/alkida-react-main/static/css/main.08503700.chunk.css",
+    "main.js": "/alkida-react-main/static/js/main.3b68bd60.chunk.js",
+    "main.js.map": "/alkida-react-main/static/js/main.3b68bd60.chunk.js.map",
+    "runtime-main.js": "/alkida-react-main/static/js/runtime-main.faa02213.js",
+    "runtime-main.js.map": "/alkida-react-main/static/js/runtime-main.faa02213.js.map",
+    "static/js/2.2607933f.chunk.js": "/alkida-react-main/static/js/2.2607933f.chunk.js",
+    "static/js/2.2607933f.chunk.js.map": "/alkida-react-main/static/js/2.2607933f.chunk.js.map",
+    "index.html": "/alkida-react-main/index.html",
+    "static/css/main.08503700.chunk.css.map": "/alkida-react-main/static/css/main.08503700.chunk.css.map",
+    "static/js/2.2607933f.chunk.js.LICENSE.txt": "/alkida-react-main/static/js/2.2607933f.chunk.js.LICENSE.txt",
+    "static/media/adress.430fcab1.png": "/alkida-react-main/static/media/adress.430fcab1.png",
+    "static/media/award.9b453e0a.jpg": "/alkida-react-main/static/media/award.9b453e0a.jpg",
+    "static/media/chimi.86d6ca29.jpg": "/alkida-react-main/static/media/chimi.86d6ca29.jpg",
+    "static/media/mail.83ea4c21.png": "/alkida-react-main/static/media/mail.83ea4c21.png",
+    "static/media/moon.c4adc01f.png": "/alkida-react-main/static/media/moon.c4adc01f.png",
+    "static/media/phone.68ecbcd4.png": "/alkida-react-main/static/media/phone.68ecbcd4.png",
+    "static/media/sun.6d294b94.png": "/alkida-react-main/static/media/sun.6d294b94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa02213.js",
+    "static/js/2.2607933f.chunk.js",
+    "static/css/main.08503700.chunk.css",
+    "static/js/main.3b68bd60.chunk.js"
+  ]
+}
